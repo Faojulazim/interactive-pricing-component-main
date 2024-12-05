@@ -32,7 +32,7 @@ function calculation() {
     ) {
       monthlyBill.forEach((elem) => {
         elem.innerText = `${Math.floor(
-          (discount * (16 * elementPrice[bool])) / 100
+          (discount * (12 * elementPrice[bool])) / 100
         ).toFixed(2)}`;
       });
     } else {
@@ -50,7 +50,7 @@ function calculation() {
     ) {
       monthlyBill.forEach((elem) => {
         elem.innerText = `${Math.floor(
-          (discount * (16 * elementPrice[bool])) / 100
+          (discount * (12 * elementPrice[bool])) / 100
         ).toFixed(2)}`;
       });
     } else {
@@ -69,7 +69,7 @@ function calculation() {
     ) {
       monthlyBill.forEach((elem) => {
         elem.innerText = `${Math.floor(
-          (discount * (16 * elementPrice[bool])) / 100
+          (discount * (12 * elementPrice[bool])) / 100
         ).toFixed(2)}`;
       });
     } else {
@@ -88,7 +88,7 @@ function calculation() {
     ) {
       monthlyBill.forEach((elem) => {
         elem.innerText = `${Math.floor(
-          (discount * (16 * elementPrice[bool])) / 100
+          (discount * (12 * elementPrice[bool])) / 100
         ).toFixed(2)}`;
       });
     } else {
@@ -107,7 +107,7 @@ function calculation() {
     ) {
       monthlyBill.forEach((elem) => {
         elem.innerText = `${Math.floor(
-          (discount * (16 * elementPrice[bool])) / 100
+          (discount * (12 * elementPrice[bool])) / 100
         ).toFixed(2)}`;
       });
     } else {
