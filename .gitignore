@@ -19,3 +19,5 @@ package-lock.json
 package.json
 style-guide.md
 node_modules
+tailwind.config.js
+postcss.config.js
